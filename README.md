@@ -1,11 +1,10 @@
-# Simulador de planificacion de procesos Sistemas Operativos
+# Simulacion de Planificador de Procesos - Sistemas Operatovos
 
-### [Planificador de procesos SO](http://spantons.github.io/Simulador-de-Planificacion-Sistemas-Operativos)
 
-**Diseño y construcción de un planificador de procesos a corto plazo en Java**
+**Diseño y construcción de un planificador de procesos con paradigma orientado a objetos**
 
 ## ¿Qué es esto?
-Es un proyecto donde se diseño un simulador de un planificador de procesos a corto plazo tomando en cuenta los siguientes algoritmos:
+Es un proyecto donde se diseño un simulador de un planificador de procesos tomando en cuenta los siguientes algoritmos:
   * FIFO (No expropiable)
   * Menos tiempo restante primero (No expropiable)
   * Round Robin (expropiable)
@@ -20,13 +19,13 @@ Aplicando conocimientos de IPC con los siguientes parámetros de diseño:
   
   Las salidas de las simulaciones son datos para procesamiento posterior.
 
-## ¿Qué necesito?
+## Requerimientos
 Debes tener instalado el [JRE](http://www.java.com/es/download/) que es el entorno de ejecución de Java
 
-## ¿Cómo ejecuto la aplicación?
+## Instrucciones
  1. Solo debes ejecutar el archivo **SimuladorPlanificacionSO.jar** dentro de la carpeta raíz 
 
-## ScreenShots
+## Capturas de pantalla
 ![image](https://user-images.githubusercontent.com/3026639/68531561-59ca6900-02f2-11ea-9ada-7abbba488777.png)
 
 ![image](https://user-images.githubusercontent.com/3026639/68531565-63ec6780-02f2-11ea-81a3-f2aef5b57ef1.png)
