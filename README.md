@@ -1,4 +1,4 @@
-# Simulacion de Planificador de Procesos - Sistemas Operatovos
+# Simulacion de Planificador de Procesos - Sistemas Operativos
 
 
 **Diseño y construcción de un planificador de procesos con paradigma orientado a objetos**
